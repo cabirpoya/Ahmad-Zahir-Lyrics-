@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "next build && next export",
+  "deploy": "npm run build && gh-pages -d out"
+}
