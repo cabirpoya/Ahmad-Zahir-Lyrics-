@@ -1,0 +1,3 @@
+@echo off
+echo Opening Ahmad Zahir Poetry Platform...
+start "" "open-app.html"
